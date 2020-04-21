@@ -1,0 +1,18 @@
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\ewff.exe
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\ewff.deps.json
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\ewff.runtimeconfig.json
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\ewff.runtimeconfig.dev.json
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\ewff.dll
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\ewff.pdb
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\Practicum 1.dll
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\Practicum 1.pdb
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\Practicum 1.dll.config
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\Practicum 1.exe.config
+D:\Library\School\Programmeren in .NET\Practica\Console\obj\Debug\netcoreapp3.1\ewff.csprojAssemblyReference.cache
+D:\Library\School\Programmeren in .NET\Practica\Console\obj\Debug\netcoreapp3.1\ewff.csproj.CoreCompileInputs.cache
+D:\Library\School\Programmeren in .NET\Practica\Console\obj\Debug\netcoreapp3.1\ewff.AssemblyInfoInputs.cache
+D:\Library\School\Programmeren in .NET\Practica\Console\obj\Debug\netcoreapp3.1\ewff.AssemblyInfo.cs
+D:\Library\School\Programmeren in .NET\Practica\Console\obj\Debug\netcoreapp3.1\ewff.csproj.CopyComplete
+D:\Library\School\Programmeren in .NET\Practica\Console\obj\Debug\netcoreapp3.1\ewff.dll
+D:\Library\School\Programmeren in .NET\Practica\Console\obj\Debug\netcoreapp3.1\ewff.pdb
+D:\Library\School\Programmeren in .NET\Practica\Console\obj\Debug\netcoreapp3.1\ewff.genruntimeconfig.cache

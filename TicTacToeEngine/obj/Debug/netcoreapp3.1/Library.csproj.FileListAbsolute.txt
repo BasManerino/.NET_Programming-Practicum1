@@ -1,0 +1,9 @@
+D:\Library\School\Programmeren in .NET\Practica\TicTacToeEngine\bin\Debug\netcoreapp3.1\Library.deps.json
+D:\Library\School\Programmeren in .NET\Practica\TicTacToeEngine\bin\Debug\netcoreapp3.1\Library.dll
+D:\Library\School\Programmeren in .NET\Practica\TicTacToeEngine\bin\Debug\netcoreapp3.1\Library.pdb
+D:\Library\School\Programmeren in .NET\Practica\TicTacToeEngine\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+D:\Library\School\Programmeren in .NET\Practica\TicTacToeEngine\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+D:\Library\School\Programmeren in .NET\Practica\TicTacToeEngine\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+D:\Library\School\Programmeren in .NET\Practica\TicTacToeEngine\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+D:\Library\School\Programmeren in .NET\Practica\TicTacToeEngine\obj\Debug\netcoreapp3.1\Library.dll
+D:\Library\School\Programmeren in .NET\Practica\TicTacToeEngine\obj\Debug\netcoreapp3.1\Library.pdb

@@ -1,0 +1,16 @@
+D:\Library\School\Programmeren in .NET\Practica\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+D:\Library\School\Programmeren in .NET\Practica\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+D:\Library\School\Programmeren in .NET\Practica\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+D:\Library\School\Programmeren in .NET\Practica\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+D:\Library\School\Programmeren in .NET\Practica\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+D:\Library\School\Programmeren in .NET\Practica\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+D:\Library\School\Programmeren in .NET\Practica\GUI\bin\Debug\netcoreapp3.1\Library.dll
+D:\Library\School\Programmeren in .NET\Practica\GUI\bin\Debug\netcoreapp3.1\Library.pdb
+D:\Library\School\Programmeren in .NET\Practica\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+D:\Library\School\Programmeren in .NET\Practica\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+D:\Library\School\Programmeren in .NET\Practica\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+D:\Library\School\Programmeren in .NET\Practica\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+D:\Library\School\Programmeren in .NET\Practica\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+D:\Library\School\Programmeren in .NET\Practica\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+D:\Library\School\Programmeren in .NET\Practica\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+D:\Library\School\Programmeren in .NET\Practica\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache

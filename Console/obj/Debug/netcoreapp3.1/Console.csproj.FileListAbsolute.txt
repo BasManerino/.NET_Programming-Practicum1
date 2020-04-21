@@ -1,0 +1,16 @@
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\Console.exe
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\Console.deps.json
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\Console.dll
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\Console.pdb
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\Library.dll
+D:\Library\School\Programmeren in .NET\Practica\Console\bin\Debug\netcoreapp3.1\Library.pdb
+D:\Library\School\Programmeren in .NET\Practica\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+D:\Library\School\Programmeren in .NET\Practica\Console\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache
+D:\Library\School\Programmeren in .NET\Practica\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+D:\Library\School\Programmeren in .NET\Practica\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+D:\Library\School\Programmeren in .NET\Practica\Console\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete
+D:\Library\School\Programmeren in .NET\Practica\Console\obj\Debug\netcoreapp3.1\Console.dll
+D:\Library\School\Programmeren in .NET\Practica\Console\obj\Debug\netcoreapp3.1\Console.pdb
+D:\Library\School\Programmeren in .NET\Practica\Console\obj\Debug\netcoreapp3.1\Console.genruntimeconfig.cache
